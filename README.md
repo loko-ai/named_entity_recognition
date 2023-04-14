@@ -115,7 +115,7 @@ You can test it using:
 curl -d "\"Amo il tiramisù con i savoiardi e la pizza con la mozzarella\"" -X POST http://localhost:9999/routes/orchestrator/endpoints/named_entity_recognition/extract
 ```
 
-### STEP4: Test service
+### STEP5: Test service
 
 You can test the extract service directly in your flow using the **HTTP Request** component:
 
