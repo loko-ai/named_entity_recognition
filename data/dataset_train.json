@@ -1,0 +1,20 @@
+ [
+   {"text": "Prima di tutto dividete i tuorli dagli albumi e metteteli in due ciotole diverse.", "entities": [[27, 33, "ALIMENTO"], [40, 46, "ALIMENTO"]]},
+   {"text": "Unite un cucchiaio di zucchero", "entities": [[22, 30, "ALIMENTO"]]},
+   {"text": "unire il mascarpone", "entities": [[9, 19, "ALIMENTO"]]},
+   {"text": "mescolare le uova", "entities": [[13, 17, "ALIMENTO"]]},
+   {"text": "ricopritela con uno strato di savoiardi imbevuti nella bagna", "entities": [[30, 39, "ALIMENTO"]]},
+   {"text": "Mescolate con il liquore al caffè", "entities": [[18, 25, "ALIMENTO"], [29, 34, "ALIMENTO"]]},
+   {"text": "Usare lo sbattitore", "entities": []},
+   {"text": "Mangiare la pizza una volta a settimana è d’obbligo", "entities": [[12, 17, "ALIMENTO"]]},
+   {"text": "Ho comprato del latte.", "entities": [[17, 22, "ALIMENTO"]]},
+   {"text": "Marco adora la cioccolata.", "entities": [[16, 26, "ALIMENTO"]]},
+   {"text": "Io e mio cugino andiamo matti per le lasagne.", "entities": [[38, 45, "ALIMENTO"]]},
+   {"text": "Per preparare la pasta, è sufficiente mettere una pentola d’acqua sul fuoco…", "entities": [[18, 23, "ALIMENTO"], [61, 66, "ALIMENTO"]]},
+   {"text": "Per preparare il tiramisù, hai bisogno di…", "entities": [[18, 26, "ALIMENTO"]]},
+   {"text": "I savoiardi dovranno essere imbevuti di caffè e poi adagiati in una pirofila", "entities": [[3, 12, "ALIMENTO"]]},
+   {"text": "Il gelato alla nocciola è il mio preferito.", "entities": [[4, 10, "ALIMENTO"], [16, 24, "ALIMENTO"]]},
+   {"text": "Hai, mai assaggiato le lasagne al pesto?", "entities": [[23, 30, "ALIMENTO"], [34, 39, "ALIMENTO"]]},
+   {"text": "Per cena cucinerò della pasta.", "entities": [[20, 25, "ALIMENTO"]]},
+   {"text": "Non mi va di cucinare stasera. Ordiniamo della pizza?", "entities": [[47, 53, "ALIMENTO"]]}
+]
