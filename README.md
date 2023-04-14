@@ -126,3 +126,10 @@ You can test the extract service directly in your flow using the **HTTP Request*
 In this case you have to change http://localhost:9999 to http://gateway:8080 since the request will be executed in one 
 of the containers inside the loko network (i.e. 
 http://gateway:8080/routes/orchestrator/endpoints/named_entity_recognition/extract).
+
+The *alimenti_ner* model extracts the following entities:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/30443495/232085476-9387f192-ee30-4a53-bb99-ccb809ec07f4.png" width="80%" />
+</p>
+
