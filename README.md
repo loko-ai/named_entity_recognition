@@ -18,6 +18,8 @@ From the Applications tab install and run the loko-entity-extractor (See more he
 </p>
 
 
+**Note:** The first time you run the extension you'll have to wait a while to build the loko-entity-extractor image.
+
 You can then go back to your project and run it.
 
 In order to start the project remember to press the play button on the right of the project's name:
