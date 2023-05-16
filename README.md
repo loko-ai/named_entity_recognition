@@ -86,11 +86,16 @@ You can now evaluate the model performance obtained on the training data:
 <img src="https://user-images.githubusercontent.com/30443495/232075214-63bdbb50-91d1-447a-8db2-557a1ef81519.png" width="80%" />
 </p>
 
-We save the output of the **Entities** component on a file named *alimenti.eval* that you can visualize using the 
-**NER GUI** Report:
+We save the output of the **Entities** component on a file named *alimenti.eval* (i.e. *data/data/entities/alimenti.eval*):
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/30443495/232079455-decbbc7c-8976-4382-98d9-39055907905b.gif" width="80%" />
+<img src="https://github.com/Cecinamo/ner/assets/30443495/4b7496c5-e4f9-46ba-ad2e-106b9dce7f1c" width="80%" />
+</p>
+
+You can then visualize it using the **NER GUI** Report:
+
+<p align="center">
+<img src="https://github.com/Cecinamo/ner/assets/30443495/882002f6-861a-4f2d-9034-b78afdb459e6" width="80%" />
 </p>
 
 ### STEP4: Expose service
