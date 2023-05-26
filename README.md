@@ -97,7 +97,7 @@ We save the output of the **Entities** component on a file named *alimenti.eval*
 You can then visualize it using the **NER GUI** Report:
 
 <p align="center">
-<img src="https://github.com/Cecinamo/ner/assets/30443495/882002f6-861a-4f2d-9034-b78afdb459e6" width="80%" />
+<img src="https://github.com/Cecinamo/ner/assets/30443495/fa2c718c-6f30-444d-9526-98827c79f9d4" width="80%" />
 </p>
 
 ### STEP4: Expose service
